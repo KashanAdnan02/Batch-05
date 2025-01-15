@@ -1,7 +1,7 @@
 .heading {
     color: chartreuse;
 }
-    
+
 #p-1 {
     color: chocolate;
 }
@@ -16,6 +16,6 @@
 } */
 
 
-.container .para1 {
+.container.para1 {
     background-color: crimson;
 }
